@@ -1,0 +1,25 @@
+
+nav {
+    text-align: center;
+    margin: 20px auto; /* Optional: center the <nav> block itself */
+    background-color: lightgray;
+    width: 330px;
+    padding: 5px;
+}
+nav a{
+    
+    font-size: 18px;
+    margin: 8px ;
+    text-decoration: none;
+    color: black;
+
+    font-weight: bold;
+
+}
+.container {
+    width: 300px;
+    margin: 0 auto; /* Horizontally centers the container */
+    background: lightgray;
+    padding: 20px;
+  }
+

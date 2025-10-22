@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dom Learning</title>
+    <style>
+        .bg-black{
+            background-color: #212121;
+            color: #fff;
+        }
+
+    </style>
+</head>
+<body class="bg-black">
+    <div >
+        <h1 id="title" class="heading">Dom Learning  Code</h1>
+    </div>
+    <div class="parent">
+        <div class="day">Monday</div>
+        <div class="day">Tuesday</div>
+        <div class="day">Wednesday</div>
+        <div class="day">Thursday</div>
+       
+    </div>
+    <p>Animi autem reiciendis, tenetur assumenda consequuntur, unde saepe in eos nostrum sequi repellat fugit doloremque, excepturi facilis commodi porro minus magnam ipsum.</p>
+</body>
+<script>
+    const parent = document.querySelector('.parent')
+    //console.log(parent);
+    //console.log(parent.children);
+    //console.log(parent.children[1].innerHTML);
+
+         for (let i = 0; i < parent.length; i++) {
+        //console.log(parent.children[i].innerHTML);
+        }
+        parent.children[1].style.color = "orange"
+        //console.log(parent.firstElementChild);
+        const dayOne = document.querySelector(".day")
+        console.log(dayOne)
+
+</script>
+</html>

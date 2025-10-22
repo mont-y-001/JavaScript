@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+}
+
+span{
+    display: block;
+}
+.canvas{
+    margin: 100px auto 100px;
+    width: 80%;
+    text-align: center;
+
+}
+nav{
+    margin-top: 15px;
+    text-align: center;
+    font-size: 20px;
+    
+}
+nav a{
+    font-size: 18px;
+    padding: 7px;
+}
+.button{
+    width: 100px;
+    height: 100px;
+    border: solid black 2px;
+    display: inline-block;
+}
+#Grey{
+    background-color: grey;
+
+}
+#White{
+    background-color: white;
+}
+#Blue{
+    background-color: blue;
+}
+#Yellow{
+    background-color: yellow;
+}
