@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 const buttons = document.querySelectorAll('.button');
 const body = document.querySelector('body');
@@ -23,6 +24,8 @@ buttons.forEach(function (button) {
     
   });
 =======
+=======
+>>>>>>> d29c92dd310cb4d3e4c6b4e233a8129193b94430
 
 const buttons = document.querySelectorAll('.button');
 const body = document.querySelector('body');
@@ -46,5 +49,8 @@ buttons.forEach(function (button) {
     }
     
   });
+<<<<<<< HEAD
 >>>>>>> d29c92d (.)
+=======
+>>>>>>> d29c92dd310cb4d3e4c6b4e233a8129193b94430
 });

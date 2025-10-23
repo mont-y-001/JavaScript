@@ -15,7 +15,7 @@ function handleObject(anyObject){
     console.log(`My Name is ${anyObject.username} and i bought a course in ${anyObject.CoursePrice}`)
 
 }
-//handleObject(user)
+// handleObject(user)
 
 
 

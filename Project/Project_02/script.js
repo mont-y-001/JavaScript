@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 let form =  document.querySelector('form');
 form.addEventListener('submit',function(e){
 e.preventDefault();
@@ -19,6 +20,8 @@ e.preventDefault();
 }
 )
 =======
+=======
+>>>>>>> d29c92dd310cb4d3e4c6b4e233a8129193b94430
 let form =  document.querySelector('form');
 form.addEventListener('submit',function(e){
 e.preventDefault();
@@ -38,4 +41,7 @@ e.preventDefault();
   }
 }
 )
+<<<<<<< HEAD
 >>>>>>> d29c92d (.)
+=======
+>>>>>>> d29c92dd310cb4d3e4c6b4e233a8129193b94430
